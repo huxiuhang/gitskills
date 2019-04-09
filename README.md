@@ -9,3 +9,5 @@ Creating a new branch is quick & simple.
 huxiuhang
 
 dev版本
+
+已经学习完成git使用,dev版本上线测试。
